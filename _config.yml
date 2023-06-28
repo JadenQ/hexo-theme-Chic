@@ -1,21 +1,22 @@
 # Header
-navname: Bentham's Blog
+navname: Jaden's Blog
 
 # navigatior items
 nav:
   Posts: /archives
   Categories: /category
   Tags: /tag
+  Personal Gallery: jaden.top
   About: /about
 
 # favicon
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: J.Q.
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: 引导真正的革命者前进的, 是伟大的爱<br>Technology, drinks, photography, stories to be told, and *more*.
 avatar: /image/avatar.jpeg
 
 # main menu navigation
@@ -33,7 +34,7 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+  # ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
   # Twitter:
@@ -42,14 +43,14 @@ links:
   # CodePen:
   # Sketch:
   # Gitlab:
-  # Dribbble:
-  Instagram:
-  Reddit:
+  Dribbble: http://home903.top
+  Instagram: http://jaden.top
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/JadenQ
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
